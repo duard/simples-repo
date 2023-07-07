@@ -1,0 +1,2 @@
+# simples-repo
+nx monorepo 
